@@ -1,0 +1,10 @@
+# images
+samples/*
+
+# temporary files
+tmp.pgm
+
+# IDE things
+.DS_Store
+.idea
+__pycache__
